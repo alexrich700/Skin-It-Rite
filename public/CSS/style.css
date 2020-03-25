@@ -54,8 +54,8 @@ img.center {display: block;margin:0 auto;}
 .inline{color:#275A91}
 
 
-#header{width:100%;min-height:50px;margin:0px auto 0px auto;background: url(../images/top.png);background-repeat: no-repeat;background-position: center bottom;webkit-background-size: cover; -moz-background-size: cover;-o-background-size: cover; background-size: cover;  }
-#header2{width:100%;min-height:250px;margin:0px auto 0px auto;background: url(../images/top2.png);background-repeat: no-repeat;background-position: center bottom;webkit-background-size: cover; -moz-background-size: cover;-o-background-size: cover; background-size: cover;  }
+#header{width:100%;min-height:50px;margin:0px auto 0px auto;background: url(../Images/top.png);background-repeat: no-repeat;background-position: center bottom;webkit-background-size: cover; -moz-background-size: cover;-o-background-size: cover; background-size: cover;  }
+#header2{width:100%;min-height:250px;margin:0px auto 0px auto;background: url(../Images/top2.png);background-repeat: no-repeat;background-position: center bottom;webkit-background-size: cover; -moz-background-size: cover;-o-background-size: cover; background-size: cover;  }
 
 .topleft {padding-bottom:20px;text-align:center;}.topright {padding-bottom:20px;text-align:center;}.topleft, .topright {width: 100%; }
 @media (min-width: 971px) {.topleft {width: 60%; -webkit-order: 1;order: 1;}.topright {width: 40%;-webkit-order: 2;order: 2;}}
